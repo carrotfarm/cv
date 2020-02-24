@@ -1,12 +1,8 @@
-# Airflow
-korea basketball media service
+Requirements:
+• Proficiency in web services / API design (REST, GraphQL, Swagger, Postman)
+• Experience with Amazon Web Services
+• Working knowledge in HTML5, CSS3, and Javascript
 
-# Url
-https://www.airflow.kr/
-
-# Admin Preview ScreenShot
-https://www.airflow.kr/wp-content/uploads/2020/02/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2020-02-24-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB-11.20.41.png
-
-https://www.airflow.kr/wp-content/uploads/2020/02/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2020-02-24-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB-11.20.22.png
+https://github.com/carrotfarm/cv/issues/1
 
 
